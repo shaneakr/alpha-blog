@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff9ee75-9cbf-49b9-87e7-55366674cb85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/views/pages/about.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/about.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/home.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/home.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../invest/.idea/invest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../invest/.idea/invest.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -310,7 +308,7 @@
       <updated>1539103778562</updated>
       <workItem from="1539103779724" duration="3284000" />
       <workItem from="1539109898491" duration="239000" />
-      <workItem from="1539116814438" duration="43000" />
+      <workItem from="1539116814438" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="home, company, profile, company pages for new rails app">
       <created>1539108053227</created>
@@ -323,13 +321,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3566000" />
+    <option name="totallyTimeSpent" value="3741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="757" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,7 +342,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3298193" />
-      <window_info anchor="bottom" id="Application Servers" order="13" visible="true" weight="0.3298193" />
+      <window_info active="true" anchor="bottom" id="Application Servers" order="13" visible="true" weight="0.3298193" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
